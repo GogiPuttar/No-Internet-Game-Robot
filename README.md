@@ -22,3 +22,5 @@ Further improvements might include:
 * Serial output by a false keyboard to mimic the pressing of a spacebar
 * Creating an easily installabale unit for the robot
 * Automatically adjusting setup arbitrary constants in a calibration step
+
+This project is GPL-3.0 Liscenced to Aditya Nair under GogiPuttar
